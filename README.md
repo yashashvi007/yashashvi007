@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashashvi007
+- 👋 Hi, I’m Yashashvi Maurya 
 - 👀 I’m interested in Web Development , Machine learning , Data Science 
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on React.js  Node.js projects
