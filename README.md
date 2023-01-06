@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yashashvi Maurya 
-- 👀 I’m interested in Web Development , Machine learning , Data Science 
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on React.js  Node.js projects
+- 👀 I’m interested in Web Development , android development.
+- 🌱 I’m currently learning React native .
+- 💞️ I’m looking to collaborate on React.js,Node.js,React native
 - 📫 How to reach me - email Id : yashashvimaurya@gmail.com
 
 <!---
